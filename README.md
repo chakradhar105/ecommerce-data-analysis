@@ -40,6 +40,6 @@ This project demonstrates a complete data analysis workflow from raw data to act
 
 ## 📷 Sample Visualizations
 
-![Sales by Country](C:\Users\chakr\OneDrive\Pictures\Screenshots\Screenshot 2026-03-29 164959.png)
+![Sales by Country](graph1.png)
 
 ![Monthly Trend](image2.png)
