@@ -37,3 +37,9 @@ This project demonstrates a complete data analysis workflow from raw data to act
 
 ## 📂 Files
 - `ecommerce_analysis.ipynb` → Main project notebook
+
+## 📷 Sample Visualizations
+
+![Sales by Country](image1.png)
+
+![Monthly Trend](image2.png)
