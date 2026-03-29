@@ -40,6 +40,6 @@ This project demonstrates a complete data analysis workflow from raw data to act
 
 ## 📷 Sample Visualizations
 
-![Sales by Country](https://github.com/chakradhar105/ecommerce-data-analysis/blob/main/Screenshot%202026-03-29%20164959.png)
+![Sales by Country](https://github.com/chakradhar105/ecommerce-data-analysis/blob/main/Screenshot%202026-03-29%20164853.png)
 
 ![Monthly Trend](https://github.com/chakradhar105/ecommerce-data-analysis/blob/main/Screenshot%202026-03-29%20164959.png)
