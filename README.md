@@ -27,6 +27,11 @@ This project performs end-to-end data analysis on an e-commerce dataset to extra
 - Monthly Sales Trend
 - Top Products Analysis
 
+## 💡 Business Insights
+- The United Kingdom contributes the majority of total revenue.
+- A small number of products generate a large portion of sales.
+- Sales show variation across months indicating seasonal trends.
+  
 ## 🚀 Project Outcome
 This project demonstrates a complete data analysis workflow from raw data to actionable insights.
 
